@@ -1,0 +1,32 @@
+# Nuxt / Nitro build output
+.nuxt
+.output
+.data
+dist
+
+# Dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Environment & local platform state
+.env
+.env.*
+!.env.example
+.vercel
+
+# Local tooling
+.claude
+
+# OS / editor
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Authoring artifacts — published separately, not part of the template
+guide.md
+nuxt-blob-image-hosting-template.md
