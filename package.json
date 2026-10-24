@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
-    "@vercel/blob": "^2.6.1",
+    "@vercel/blob": "^2.8.2",
     "nanoid": "^6.0.0",
-    "nuxt": "^4.0.3",
-    "vue": "^3.5.18"
+    "nuxt": "^4.6.2",
+    "vue": "^3.5.44"
   }
 }
